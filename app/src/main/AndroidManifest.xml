@@ -22,6 +22,12 @@
             android:name=".Activity.MainActivity"
             android:exported="false" />
         <activity
+            android:name=".Activity.dangNhap.DangNhapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.dangNhap.DangKyActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.Manhinhchao_Activity"
             android:exported="true" >
             <intent-filter>
